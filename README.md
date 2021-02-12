@@ -1,2 +1,2 @@
-# Introduction-to-scientific-research
-This repository contains the Python files and word lists used for this research.
+# Introduction-to-scientific-research 2
+This repository contains the Python files for this research.
